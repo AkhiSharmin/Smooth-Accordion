@@ -1,0 +1,8 @@
+body {
+  background-color: #78888b;
+  background-image: linear-gradient(180deg, #78888b 0%, #4d84c7 100%);
+}
+
+.max-h-0 {
+  max-height: 0;
+}
